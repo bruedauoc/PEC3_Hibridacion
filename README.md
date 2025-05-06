@@ -14,8 +14,22 @@ Fecha: 06/05/2025
 
 ## Planteamiento 👁️‍🗨️
 
+ 
+> “Las propiedades y técnicas exclusivas de distintos medios se han convertido en elementos de software que pueden combinarse por vías que antes resultaban imposibles” (Manovich, 2013).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+> "El metamedio ordenador es un verdadero cajón de sastre para muchas cosas, pero, más que contener una variedad de medios separados, en realidad engloba un conjunto mayor de pequeños componentes que se unen para crear híbridos" (Manovich, 2013).
+
+Según Manovich, es importante tener claro la diferenciación entre hibridación y multimedia. 
+
+> "La multimedia no amenaza la autonomía de los medios individuales. Conservan su propio lenguaje, es decir, sus formas de organizar, acceder y modificar sus datos" (Manovich, 2013)
+
+Para mostrar la diferencia entre hibridación de medios y multimedia, Manovich utiliza la metáfora de la reproducción sexual en la biología, donde el fruto de la misma son nuevas personas que combinan el material genético de sus progenitores(hibridación) y no tan solo un montaje mecánico de sus miembros que sería el equivalente de la multimedia.
+
+Una vez finalizado el traslado al mundo del software de las tecnologías análogicas y físicas de los medios, han empezado a actuar dentro de un ecosistema en el que han empezado a mutar e interaccionar para dar como resultado, nuevos hibridos.
+
+Para exponer ejemplos de esta hibridación, los casos elegidos son Black Mirror Bandersnatch y Amazon X-Ray en Prime video.
+
+
 
 
 ## Re-descubriendo la hibridacion: Black Mirror Bandersnatch (Netflix) 🍿
