@@ -47,6 +47,12 @@ En Bandersnatch, el espectador toma decisiones que afectan a la trama de la pel�
 En julio de 1984 el joven británico de 19 años Stefan Butler cumple el sueño de su vida al entrar a trabajar en la compañía de videojuegos Tuckersoft.
 El trabajo de Butler consiste en adaptar una novela de ciencia ficción del estilo *Elige tu propia aventura* a un videojuego en el cual el jugador tiene la opción de elegir entre múltiples caminos que llevan a diferentes finales. A medida que avanza en la programación del juego, Butler comienza a cuestionar la existencia de la realidad misma y extraños sucesos empiezan a suceder a su alrededor. 
 
+**En relación a la hibridación**
+
+Esta película se puede considerar un hito de la hibridación de medios. La toma de decisiones de manera interactiva por parte del espectador durante el curso de la historia utilizando una lógica narrativa propia de videojuegos y libros del tipo "elige tu propia aventura" clásicos de los 80, provocan que se elimine la actitud pasiva del espectador y se convierta en jugador activo como en un videojuego, ofreciendo múltiples bifurcaciones y finales asociadas a la lógica del sotware. Que el protagonista sea un programador que adapta un libro tipo elige tu propia aventura y que existan momentos donde los personajes se dan cuenta de que están siendo controlados por alguien (haciendo referencia al espectador) rompiendo de esta manera la denominada cuarta pared, nos damos cuenta de que el propio concepto de hibridación de medios es parte protagonista en la propia trama de la película. Con Bandersnatch el streaming deja de ser un medio de distribución lineal para convertirse en una plataforma híbrida que combina la reproducción con la ejecución de código en tiempo real
+
+![Bandersnatch](https://github.com/bruedauoc/PEC3_Hibridacion/blob/main/bandersnatch/6.png) 
+
 
 
 ## Re-descubriendo la hibridacion: Amazon X-Ray (Prime Video) 🎞️ 🎮
