@@ -45,6 +45,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ### Referencias y Bibliografía 📚
 
 * Xataka. https://www.xataka.com/cine-y-tv/black-mirror-bandersnatch-primera-pelicula-interactiva-netflix-asi-funciona
+* Wikipedia. https://es.wikipedia.org/wiki/Black_Mirror:_Bandersnatch
+* 20 minutos. https://www.20minutos.es/tecnologia/moviles-dispositivos/amazon-prime-video-lanza-nueva-funcion-utiliza-ia-generativa-resumir-que-estas-viendo-5650941/
+* Amazon. https://www.amazon.com/salp/xray?language=es_US
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 
 
