@@ -59,7 +59,16 @@ Esta película se puede considerar un hito de la hibridación de medios. La toma
 
 ![Amazon X-Ray](https://github.com/bruedauoc/PEC3_Hibridacion/blob/main/primevideo/1.png) 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Amazon X-Ray es una funcionalidad interactiva que es utilizada en Prime Video para ofrecer un valor añadido a su repoductor de contenido en streaming. Ofrece información en tiempo real relacionada con lo que el usuario está viendo en ese momento.
+Información como:
+
+* Nombre de los actores que aparecen en pantalla
+* Detalle de los temas musicales que suenan en ese momento
+* Trivia sobre la escena, episodio o película
+
+Por ejemplo, permite acceder a la lista de temas musicales que son utilizados en un episodio o película en concreto y saltar al punto exacto donde inicia la escena donde suena el tema. 
+Una de las últimas funcionalidades que han incorporado recientemente a X-Ray es la de poder realizar resúmenes de capitulos anteriores mediante inteligencia artificial a través de X-Ray Recaps, una nueva función para ponerse al día de forma rápida y sin el riesgo de "comerse" algún spoiler no deseado relacionado con lo pendiente por visualizar.
+
 
 
 ### Referencias y Bibliografía 📚
