@@ -58,7 +58,7 @@ Esta película se puede considerar un hito de la hibridación de medios. La toma
 
 ## Re-descubriendo la hibridación: Amazon X-Ray (Prime Video) 🎞️ 🎮
 
-![Amazon X-Ray](https://github.com/bruedauoc/PEC3_Hibridacion/blob/main/primevideo/1.png) 
+<img src="primevideo/1.png" alt="Portada"  align="center" style="width: 200px;">
 
 Amazon X-Ray fue desarrollado internamente por Amazon, sonbre todo a través del equipo de IMDb (Internet Movie Database), que pertenece a Amazon desde 1998. El contenido y los metadatos que se muestran en X-Ray provienen directamente de las bases de datos de IMDb, mientras que la integración técnica fue realizada por equipos de desarrollo de Amazon Prime Video. X-Ray fue lanzado en 2012 en los Kindle Fire como una herramienta para libros, y luego se adaptó para el cine y series.
 
