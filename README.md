@@ -28,6 +28,8 @@ Para mostrar la diferencia entre hibridación de medios y multimedia, Lev Manovi
 
 Manovich indica que una vez finalizado el traslado al mundo del software de las tecnologías análogicas y físicas de los medios, han empezado a actuar dentro de un ecosistema en el que han empezado a mutar e interaccionar para dar como resultado, nuevos hibridos. La hibridación de medios es un fenómeno de la cultura digital propio de la era del software.
 
+> "En los híbridos de medios, las interfaces, técnicas y en última instancia las presuposiciones más básicas de los diversos formatos y tradiciones de medios se unen y dan pie a nuevas gestalts de medios. Es decir, se fusionan para ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno" (Manovich, 2013)
+
 Para exponer ejemplos de esta hibridación, los casos elegidos son **Black Mirror Bandersnatch** y **Amazon X-Ray** en Prime video.
 
 
@@ -37,7 +39,7 @@ Para exponer ejemplos de esta hibridación, los casos elegidos son **Black Mirro
 
 ![Bandersnatch](https://github.com/bruedauoc/PEC3_Hibridacion/blob/main/bandersnatch/4.jpg) 
 
-**Black Mirror: Bandersnatch** es una película interactiva británica que pertenece a la serie de ciencia ficción distópica Black Mirror.​ La película está dirigida por David Slade y protagonizada por Fionn Whitehead. Se estrenó en Netflix​ el 28 de diciembre de 2018.​
+**Black Mirror: Bandersnatch** es una película interactiva británica que pertenece a la serie de ciencia ficción distópica **Black Mirror**.​ La película está dirigida por David Slade y protagonizada por Fionn Whitehead. Se estrenó en Netflix​ el 28 de diciembre de 2018.​
 
 En Bandersnatch, el espectador toma decisiones que afectan a la trama de la película.​ Estas decisiones dan lugar, entre numerosas combinaciones posibles,​ a cinco posibles finales distintos.​ La duración de la película también es variable en base a la toma de decisiones y puede tener una duración de entre 45 y 120 minutos de duración.​ 
 
@@ -51,7 +53,14 @@ El trabajo de Butler consiste en adaptar una novela de ciencia ficción del esti
 
 **En relación a la hibridación**
 
-Esta película se puede considerar un hito de la hibridación de medios. La toma de decisiones de manera interactiva por parte del espectador durante el curso de la historia utilizando una lógica narrativa propia de videojuegos y libros del tipo *elige tu propia aventura* clásicos de los 80, provocan que se elimine el rol pasivo del espectador y se convierta en jugador activo como en un videojuego, ofreciendo múltiples bifurcaciones y finales asociados a la lógica del software. Que el protagonista sea un programador que adapta un libro tipo *elige tu propia aventura* y que existan momentos donde los personajes se dan cuenta de que están siendo controlados por alguien (haciendo referencia al espectador) rompiendo de esta manera la denominada cuarta pared, podemos decir que el propio concepto de hibridación forma parte de la propia trama de la película. Con Bandersnatch el streaming deja de ser un medio de distribución lineal para convertirse en una plataforma híbrida que combina la reproducción con la ejecución de código en tiempo real
+Elementos que forman parte de la hibridación:
+
+* Cine. Elemento narrativo tradicional
+* Videojuego y literatura tipo *elige tu propia aventura*. Interactividad y narrativa no lineal condicionada a la toma de decisiones
+* Reproductor de netflix. Ofrece la interfaz adaptada al usuario
+
+Esta película se puede considerar un hito de la hibridación de medios. La toma de decisiones de manera interactiva por parte del espectador durante el curso de la historia utilizando una lógica narrativa propia de videojuegos y libros del tipo *elige tu propia aventura* clásicos de los 80, provocan que se elimine el rol pasivo del espectador y se convierta en jugador activo como en un videojuego, ofreciendo múltiples bifurcaciones y finales asociados a la lógica del software. Que el protagonista sea un programador que adapta un libro tipo *elige tu propia aventura* y que existan momentos donde los personajes se dan cuenta de que están siendo controlados por alguien (haciendo referencia al espectador) rompiendo de esta manera la denominada cuarta pared, podemos decir que el propio concepto de hibridación forma parte de la propia trama de la película. Con Bandersnatch el streaming deja de ser un medio de distribución lineal para convertirse en una plataforma híbrida que combina la reproducción con la ejecución de código en tiempo real.
+ 
 
 ![Bandersnatch](https://github.com/bruedauoc/PEC3_Hibridacion/blob/main/bandersnatch/6.png) 
 
