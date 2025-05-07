@@ -8,7 +8,7 @@ Autor: Beltrán Rueda Cruz
 
 Fecha: 06/05/2025
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
+<img src="Image7.png" alt="Portada"  align="center" style="width: 700px;">
 
 
 
