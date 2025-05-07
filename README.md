@@ -26,7 +26,7 @@ Según Manovich, es importante tener clara la diferenciación entre hibridación
 
 Para mostrar la diferencia entre hibridación de medios y multimedia, Lev Manovich alude metafóricamente a la reproducción sexual en la biología, donde el fruto de la misma son nuevas personas que combinan el material genético de sus progenitores(hibridación) y no tan solo un montaje mecánico de sus miembros que sería el equivalente de la multimedia.
 
-Una vez finalizado el traslado al mundo del software de las tecnologías análogicas y físicas de los medios, han empezado a actuar dentro de un ecosistema en el que han empezado a mutar e interaccionar para dar como resultado, nuevos hibridos.
+Manovich indica que una vez finalizado el traslado al mundo del software de las tecnologías análogicas y físicas de los medios, han empezado a actuar dentro de un ecosistema en el que han empezado a mutar e interaccionar para dar como resultado, nuevos hibridos. La hibridación de medios es un fenómeno de la cultura digital propio de la era del software.
 
 Para exponer ejemplos de esta hibridación, los casos elegidos son **Black Mirror Bandersnatch** y **Amazon X-Ray** en Prime video.
 
@@ -60,6 +60,8 @@ Esta película se puede considerar un hito de la hibridación de medios. La toma
 
 ![Amazon X-Ray](https://github.com/bruedauoc/PEC3_Hibridacion/blob/main/primevideo/1.png) 
 
+Amazon X-Ray fue desarrollado internamente por Amazon, sonbre todo a través del equipo de IMDb (Internet Movie Database), que pertenece a Amazon desde 1998. El contenido y los metadatos que se muestran en X-Ray provienen directamente de las bases de datos de IMDb, mientras que la integración técnica fue realizada por equipos de desarrollo de Amazon Prime Video. X-Ray fue lanzado en 2012 en los Kindle Fire como una herramienta para libros, y luego se adaptó para el cine y series.
+
 Amazon X-Ray es una funcionalidad interactiva que es utilizada en Prime Video para ofrecer un valor añadido a su repoductor de contenido en streaming. Ofrece información en tiempo real relacionada con lo que el usuario está viendo en ese momento.
 Información como:
 
@@ -79,7 +81,13 @@ Una de las últimas funcionalidades que han incorporado recientemente a X-Ray es
 
 **En relación a la hibridación**
 
-X-Ray ofrece es el resultado de una hibridación de medios del que nace un reproductor con varias capas que ofrece una interactividad propia de la web. Convierte la experiencia pasiva de un reproductor, en una consultiva e informativa que permite explorar mientras se consume el contenido. La estrutura tradicional de un reproductor queda enlazada con una base de datos navegable donde el espectador puede pausar y acceder a capas de información que dan un valor añadido al streaming ordinario.
+El producto, parte de diferente software que a través de la hibridación, da como resultado el reproductor de prime video X-Ray
+
+* IMDb (Internet Movie Database). base de datos más grande del mundo donde se encuentran programas de televisión, eventos en vivo y difundidos en televisión o en la web. Almacena el personal de equipo de producción (incluyendo directores y productores), actores, series y programas de televisión, videojuegos, actores de doblaje y personajes ficticios que aparecen en los medios de entretenimiento visual.
+* Amazon Studios. Desarrolla e integra la interfaz interactiva y las funcionalidades del reproductor, como la sincronización de datos en tiempo real con IMDb
+* Uso de la IA en el desarrollo. Amazon ha invertido en algoritmos de reconocimiento facial y análisis de audio para detectar qué actores están en pantalla o qué temas musicales suenan.
+  
+X-Ray es el resultado de una hibridación de medios del que nace un reproductor con varias capas que ofrece una interactividad propia de la web. Convierte la experiencia pasiva de un reproductor, en una consultiva e informativa que permite explorar mientras se consume el contenido. La estrutura tradicional de un reproductor queda enlazada con una base de datos navegable donde el espectador puede pausar y acceder a capas de información que dan un valor añadido al streaming ordinario.
 En este ejemplo, al igual que sucede con el caso de Black Mirror Bandersnatch, se rompe la figura del espectador pasivo, ofreciendo en este caso, una experiencia expandida donde el espectador puede elegir y controlar el acceso a información durante el visionado del contenido.
 
 
@@ -89,5 +97,7 @@ En este ejemplo, al igual que sucede con el caso de Black Mirror Bandersnatch, s
 * Wikipedia. https://es.wikipedia.org/wiki/Black_Mirror:_Bandersnatch
 * 20 minutos. https://www.20minutos.es/tecnologia/moviles-dispositivos/amazon-prime-video-lanza-nueva-funcion-utiliza-ia-generativa-resumir-que-estas-viendo-5650941/
 * Amazon. https://www.amazon.com/salp/xray?language=es_US
+* Amazon. https://www.aboutamazon.com/news/entertainment/que-es-x-ray-en-prime-video
+* Wikipedia. https://es.wikipedia.org/wiki/Internet_Movie_Database
 * Sintáxis Markdown. https://markdown.es/sintaxis-markdown/
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
